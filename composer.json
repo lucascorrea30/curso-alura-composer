@@ -35,5 +35,6 @@
 		"phpcs": "Executa o PHPCS",
 		"phan": "Executa o PHAN",
 		"check": "Executa as verificações do código PHAN, PHPCS e os testes"
-	}
+	},
+	"license": "GPL-3.0"
 }
