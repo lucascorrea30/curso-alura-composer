@@ -39,5 +39,6 @@
 		"phan": "Executa o PHAN",
 		"check": "Executa as verificações do código PHAN, PHPCS e os testes"
 	},
-	"license": "GPL-3.0"
+	"license": "GPL-3.0",
+	"bin": ["buscar-cursos.php"]
 }
